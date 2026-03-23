@@ -1,0 +1,16 @@
+Advanced Grid Table Visual for Power BI
+Copyright (c) 2026 Maciej Krakowski. All rights reserved.
+
+END-USER LICENSE AGREEMENT (EULA)
+
+1. GRANT OF LICENSE
+The developer grants you a personal, non-exclusive, non-transferable, and free license to install and use the Advanced Grid Table custom visual (".pbiviz" file) for both commercial and non-commercial purposes within Microsoft Power BI.
+
+2. RESTRICTIONS
+You may NOT:
+- Reverse-engineer, decompile, disassemble, or attempt to derive the source code of the visual.
+- Sell, rent, lease, or distribute the visual as a standalone commercial product.
+- Remove or alter any copyright notices or proprietary markings.
+
+3. DISCLAIMER OF WARRANTY
+THIS VISUAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE VISUAL OR THE USE OR OTHER DEALINGS IN THE VISUAL.
